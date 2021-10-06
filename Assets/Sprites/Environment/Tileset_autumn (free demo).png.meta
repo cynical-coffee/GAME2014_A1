@@ -230,7 +230,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 240
+        y: 229
         width: 16
         height: 16
       alignment: 0
@@ -251,11 +251,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 240
+        y: 229
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999905}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,7 +271,7 @@ TextureImporter:
       name: Tileset_autumn (free demo)_7
       rect:
         serializedVersion: 2
-        x: 128
+        x: 139
         y: 240
         width: 16
         height: 16
@@ -289,31 +289,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_autumn (free demo)_8
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd05f0ef907479f00800000000000000
-      internalID: 1123444740294922460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Tileset_autumn (free demo)_9
       rect:
         serializedVersion: 2
-        x: 160
+        x: 149
         y: 240
         width: 16
         height: 16
@@ -436,48 +415,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_autumn (free demo)_15
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 224
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07856dfa52389ab00800000000000000
-      internalID: 840347003368396912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tileset_autumn (free demo)_16
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 224
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdefbf2a3e85d9960800000000000000
-      internalID: 7610336680041250524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Tileset_autumn (free demo)_17
       rect:
         serializedVersion: 2
@@ -587,7 +524,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 208
+        y: 219
         width: 16
         height: 16
       alignment: 0
@@ -608,7 +545,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 208
+        y: 219
         width: 16
         height: 16
       alignment: 0
@@ -628,7 +565,7 @@ TextureImporter:
       name: Tileset_autumn (free demo)_24
       rect:
         serializedVersion: 2
-        x: 128
+        x: 139
         y: 208
         width: 16
         height: 16
@@ -646,31 +583,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tileset_autumn (free demo)_25
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 208
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13500bfaddc39bdf0800000000000000
-      internalID: -164032988589325007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Tileset_autumn (free demo)_26
       rect:
         serializedVersion: 2
-        x: 160
+        x: 149
         y: 208
         width: 16
         height: 16

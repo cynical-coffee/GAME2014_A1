@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 86d1decfa9ece2b48a3a7e8573773b2c
+guid: 80dbf1c84593e064d969473829264274
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4537148965277249482
-    second: Fox_idle_0
+      213: -504957585498818721
+    second: Ogre 04_idle (32x32)_0
   - first:
-      213: 747860272482529310
-    second: Fox_idle_1
+      213: 3205657294017942820
+    second: Ogre 04_idle (32x32)_1
   - first:
-      213: -8475404648328689726
-    second: Fox_idle_2
+      213: -5786008743921767393
+    second: Ogre 04_idle (32x32)_2
   - first:
-      213: -7522033035866081977
-    second: Fox_idle_3
+      213: 3449262438824150798
+    second: Ogre 04_idle (32x32)_3
   - first:
-      213: -7144925923745799613
-    second: Fox_idle_4
+      213: 6155052132138264773
+    second: Ogre 04_idle (32x32)_4
   - first:
-      213: -569854371091954791
-    second: Fox_idle_5
+      213: -203857774965753260
+    second: Ogre 04_idle (32x32)_5
   - first:
-      213: 3278343590904299390
-    second: Fox_idle_6
+      213: -8415121338252718769
+    second: Ogre 04_idle (32x32)_6
   - first:
-      213: -7249831228610232010
-    second: Fox_idle_7
+      213: -4091590169641175854
+    second: Ogre 04_idle (32x32)_7
   - first:
-      213: 611497982118255411
-    second: Fox_idle_8
+      213: 7899353970671201864
+    second: Ogre 04_idle (32x32)_8
   - first:
-      213: -3216402269110967905
-    second: Fox_idle_9
+      213: -3836626228838237667
+    second: Ogre 04_idle (32x32)_9
   - first:
-      213: -3769956743855957513
-    second: Fox_idle_10
+      213: 7244897713781790783
+    second: Ogre 04_idle (32x32)_10
   - first:
-      213: -7414663482944370066
-    second: Fox_idle_11
+      213: 6447174641812381287
+    second: Ogre 04_idle (32x32)_11
   - first:
-      213: 3918975457326660194
-    second: Fox_idle_12
+      213: 6757923543453453931
+    second: Ogre 04_idle (32x32)_12
   - first:
-      213: -6809219533923165266
-    second: Fox_idle_13
+      213: -7221382968610548570
+    second: Ogre 04_idle (32x32)_13
   - first:
-      213: -5481017692782823826
-    second: Fox_idle_14
+      213: -1880073985524343149
+    second: Ogre 04_idle (32x32)_14
   - first:
-      213: 7994768645256870571
-    second: Fox_idle_15
+      213: 2695592713131908071
+    second: Ogre 04_idle (32x32)_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -163,97 +163,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fox_idle_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acfa160f1f037fe30800000000000000
-      internalID: 4537148965277249482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_idle_1
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e10b2fa94fee06a00800000000000000
-      internalID: 747860272482529310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_idle_2
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c78ca08060516a80800000000000000
-      internalID: -8475404648328689726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_idle_3
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 745f27caece5c9790800000000000000
-      internalID: -7522033035866081977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_idle_4
+      name: Ogre 04_idle (32x32)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 96
-        width: 48
-        height: 48
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 342e6a05abf18dc90800000000000000
-      internalID: -7144925923745799613
+      spriteID: f5734b950c70ef8f0800000000000000
+      internalID: -504957585498818721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_5
+      name: Ogre 04_idle (32x32)_1
       rect:
         serializedVersion: 2
-        x: 48
+        x: 32
         y: 96
-        width: 48
-        height: 48
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,20 +198,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9934c5df7787718f0800000000000000
-      internalID: -569854371091954791
+      spriteID: 42554991358cc7c20800000000000000
+      internalID: 3205657294017942820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_6
+      name: Ogre 04_idle (32x32)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2d37f3b7f3bfa0800000000000000
+      internalID: -5786008743921767393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ogre 04_idle (32x32)_3
       rect:
         serializedVersion: 2
         x: 96
         y: 96
-        width: 48
-        height: 48
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,41 +240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7f778360240f7d20800000000000000
-      internalID: 3278343590904299390
+      spriteID: e070633c9ed3edf20800000000000000
+      internalID: 3449262438824150798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_7
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6314729a8ec636b90800000000000000
-      internalID: -7249831228610232010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_idle_8
+      name: Ogre 04_idle (32x32)_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
-        width: 48
-        height: 48
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33bd605cc2a7c7800800000000000000
-      internalID: 611497982118255411
+      spriteID: 5c8ac16ad432b6550800000000000000
+      internalID: 6155052132138264773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_9
+      name: Ogre 04_idle (32x32)_5
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 48
-        height: 48
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,20 +282,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9161ee6d2b0d53d0800000000000000
-      internalID: -3216402269110967905
+      spriteID: 45af67a0f60cb2df0800000000000000
+      internalID: -203857774965753260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_10
+      name: Ogre 04_idle (32x32)_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d03a36abb773b80800000000000000
+      internalID: -8415121338252718769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ogre 04_idle (32x32)_7
       rect:
         serializedVersion: 2
         x: 96
-        y: 48
-        width: 48
-        height: 48
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f990e7c05c6eabc0800000000000000
-      internalID: -3769956743855957513
+      spriteID: 2d4be0c3b60c737c0800000000000000
+      internalID: -4091590169641175854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_11
+      name: Ogre 04_idle (32x32)_8
       rect:
         serializedVersion: 2
-        x: 144
-        y: 48
-        width: 48
-        height: 48
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,20 +345,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6a4a0ac8d2d91990800000000000000
-      internalID: -7414663482944370066
+      spriteID: 84eade0759420ad60800000000000000
+      internalID: 7899353970671201864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_12
+      name: Ogre 04_idle (32x32)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a762ea5c091cac0800000000000000
+      internalID: -3836626228838237667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ogre 04_idle (32x32)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d008e51c0b8460800000000000000
+      internalID: 7244897713781790783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ogre 04_idle (32x32)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e122a9d27f87950800000000000000
+      internalID: 6447174641812381287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ogre 04_idle (32x32)_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,20 +429,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26afd613a6ff26630800000000000000
-      internalID: 3918975457326660194
+      spriteID: b6ecac268a7f8cd50800000000000000
+      internalID: 6757923543453453931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_13
+      name: Ogre 04_idle (32x32)_13
       rect:
         serializedVersion: 2
-        x: 48
+        x: 32
         y: 0
-        width: 48
-        height: 48
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,20 +450,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eabdbd229eac081a0800000000000000
-      internalID: -6809219533923165266
+      spriteID: 6a499e8537e78cb90800000000000000
+      internalID: -7221382968610548570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fox_idle_14
+      name: Ogre 04_idle (32x32)_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e5e55dba2a8e5e0800000000000000
+      internalID: -1880073985524343149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ogre 04_idle (32x32)_15
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 48
-        height: 48
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,29 +492,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e667c06b2738fe3b0800000000000000
-      internalID: -5481017692782823826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fox_idle_15
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: baa77f989bf13fe60800000000000000
-      internalID: 7994768645256870571
+      spriteID: 7ebdb5d6a4ba86520800000000000000
+      internalID: 2695592713131908071
       vertices: []
       indices: 
       edges: []
